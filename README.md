@@ -1,4 +1,4 @@
-# ListeEleve
+# ListeEleves
 
 A new Flutter application.
 
